@@ -1,4 +1,4 @@
-# solved_problems
+# solved_challanges
 
 ### To motivate myself to become a better programmer, I have made this repo that consists of coding challanges from websites like leetcode.com
 
