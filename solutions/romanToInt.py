@@ -1,3 +1,10 @@
+"""
+This is my take on solving the Roman to Integer challange from https://leetcode.com/problems/roman-to-integer/
+
+Short summary:
+This code can take a roman numeral string input and convert it to an integer 
+"""
+
 def romanToInt(s: str) -> int:
     mapping = {
                 'I': 1, 
