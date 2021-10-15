@@ -2,7 +2,8 @@
 
 Function Description
 
-Complete the function matchingStrings in the editor below. The function must return an array of integers representing the frequency of occurrence of each query string in strings.
+Complete the function matchingStrings in the editor below. 
+The function must return an array of integers representing the frequency of occurrence of each query string in strings.
 
 matchingStrings has the following parameters:
 
