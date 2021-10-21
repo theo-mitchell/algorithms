@@ -15,5 +15,6 @@ SELECT
 FROM Transactions
 GROUP BY [ID] DESC
 
-
-            
+// How to resolve merge conflicts in git? 
+// diffrence between soft and hard links in cmd 
+// how to merge branches in git            
