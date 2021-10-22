@@ -4,6 +4,8 @@ Given a sentence determine whether it is a pangram in the English alphabet.
 Ignore case. Return either 'pangram' or 'not pangram' as appropriate.
 '''
 
+import string
+
 def pangrams(s):
     alphabetList = list(string.ascii_lowercase)
     s = s.lower()
